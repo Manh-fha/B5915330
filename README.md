@@ -5,4 +5,5 @@ MANH
 
 # RUN 
 -cd Backend 
+
 -./\gradlew bootRun
