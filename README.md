@@ -3,4 +3,6 @@ PANPRADAB  CHUECHAMNAN
 
 MANH
 
-
+# RUN 
+-cd Backend 
+-./\gradlew bootRun
