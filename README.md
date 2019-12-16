@@ -3,6 +3,4 @@ PANPRADAB  CHUECHAMNAN
 
 MANH
 
-#READEME
--cd Backend
--.\gradlew bootRun
+
